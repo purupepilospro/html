@@ -1,0 +1,53 @@
+h1{font-size: 100px;
+    color: rgb(41, 41, 41);
+    margin: 0;
+    margin-left: 510px;
+    font-size: 2rem;
+}
+.fondo{
+       background-color: rgb(119, 119, 119); 
+}
+.caja{
+    text-align: center;
+
+}
+
+
+h2{
+    font-size: 80px;
+    color: rgb(0, 0, 0);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+
+margin: 0;
+
+}
+p{font-size: 20px;
+    color: rgb(1o, 10, 10);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+
+
+}
+
+
+
+h3{
+    font-size: 30;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(0, 5, 8);
+   
+}
+p{
+    font-size: 200;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.bio-image img {
+    border-radius: 20%;
+    width: 450px; 
+    margin-left: 400px;
+   
+}
+
